@@ -12,7 +12,7 @@ This exercise aims to (1) utilize arithmetic operators and (2) introduce the con
 
 **Instructions:**
 1. Create a new Java file in the **src** directory named `Time.java`. Start with a small, working program as a foundation.
-2. Following the example program in Section 2.4, define variables named `hour`, `minute`, and `second`. Assign values that approximate the current time. Use a 24-hour clock (e.g., set `hour` to 14 for 2:00 PM).
+2. Following the example program in Section 2.4 of your book, define variables named `hour`, `minute`, and `second`. Assign values that approximate the current time. Use a 24-hour clock (e.g., set `hour` to 14 for 2:00 PM).
 3. Implement the program to calculate and display the number of seconds since midnight.
 4. Extend the program to calculate and display the number of seconds remaining in the day.
 5. Further enhance the program to calculate and display the percentage of the day that has passed. Be cautious when dealing with percentages using integers; consider using floating-point numbers.
